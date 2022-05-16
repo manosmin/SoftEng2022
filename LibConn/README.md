@@ -1,4 +1,3 @@
-Στο φάκελο περιέχεται ο κώδικας της αρχικής υλοποίησης στοιχείων GUI του LibConn  
 **Κεντρική οθόνη**  
 ![python_D4gpZRsNNk](https://user-images.githubusercontent.com/95766082/168568849-cefd1857-794c-49b5-ae67-c537f4ba2ba0.png)  
 **Επιστροφή βιβλίου**  
