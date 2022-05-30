@@ -2,6 +2,7 @@ from tkinter import *
 import os
 from ReturnBook import *
 from LendBook import *
+from RecommendBook import *
 
 def login_success():
     global screen3
@@ -198,7 +199,7 @@ def home_screen():
     btn2.place(relx=0.3, rely=0.55, relwidth=0.42, relheight=0.08)
 
     btn3 = Button(screen6, text="Προτεινόμενα", bg='white',
-                fg='#d68227', font=('Courier', 12), command='')
+                fg='#d68227', font=('Courier', 12), command=recommendBook)
     btn3.place(relx=0.3, rely=0.65, relwidth=0.42, relheight=0.08)
 
     btn4 = Button(screen6, text="Αξιολόγηση", bg='white',
