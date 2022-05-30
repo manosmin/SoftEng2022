@@ -1,3 +1,4 @@
+**Το πρόγραμμα εκκινεί εκτελώντας το αρχείο Login.py!!!**  
 **Κεντρική οθόνη**  
 ![python_D4gpZRsNNk](https://user-images.githubusercontent.com/95766082/168568849-cefd1857-794c-49b5-ae67-c537f4ba2ba0.png)  
 **Επιστροφή βιβλίου**  
@@ -9,4 +10,12 @@
 **Είσοδος**  
 ![python_jyhnpp3U2H](https://user-images.githubusercontent.com/95766082/169520107-aa9fa51c-9e08-46d2-af77-fe8e73c9864f.png)  
 **Εγγραφή**  
-![python_NWUXnh0FIn](https://user-images.githubusercontent.com/95766082/169520120-cc16df07-7c03-4e38-a5ec-4be0e5eaffcc.png)
+![python_NWUXnh0FIn](https://user-images.githubusercontent.com/95766082/169520120-cc16df07-7c03-4e38-a5ec-4be0e5eaffcc.png)  
+**Δανεισμός - Αναζήτηση Βιβλίου**  
+![python_jgRhAMNH8G](https://user-images.githubusercontent.com/95766082/171051776-803c5109-0b9e-4263-b371-b1772210565b.png)  
+**Δανεισμός - Επιλογή Βιβλιοθήκης**  
+![python_fZ96aylJOQ](https://user-images.githubusercontent.com/95766082/171051835-1b30b0e7-bc6b-4160-8805-a96192ff42e6.png)  
+**Δανεισμός - Εναλλακτική Ροή 1**  
+![python_v5jhqGdypG](https://user-images.githubusercontent.com/95766082/171051862-90972d04-4423-458d-a64c-9f6aa6a24a2c.png)  
+**Δανεισμός - Εναλλακτική Ροή 2**  
+![python_SegUkbFTzw](https://user-images.githubusercontent.com/95766082/171051892-aaa33964-4fb8-4ce5-9dfa-33d2000d1ac5.png)  
