@@ -20,4 +20,4 @@
 **Δανεισμός - Εναλλακτική Ροή 2**  
 ![python_SegUkbFTzw](https://user-images.githubusercontent.com/95766082/171051892-aaa33964-4fb8-4ce5-9dfa-33d2000d1ac5.png)  
 **Σύσταση Βιβλίων (RecommendBook.py)**  
-![python_jw799dpYwy](https://user-images.githubusercontent.com/95766082/171061943-de13d53f-516a-4315-a970-b7f9feeb82d7.png)
+![python_jw799dpYwy](https://user-images.githubusercontent.com/95766082/171062210-d4d6524d-5892-413a-8632-91c86218213a.png)
